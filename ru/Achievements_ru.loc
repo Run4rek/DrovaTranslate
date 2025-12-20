@@ -120,7 +120,7 @@ Achievement_StoppedMurtaghAndMursel_desc { Восстановите справе
 
 Achievement_LeftMine100Silver_name { Это Моё Серебро! }
 
-Achievement_LeftMine100Silver_desc { Покиньте Яму Лагеря Отступников со 100 кусками серебра в кармане. }
+Achievement_LeftMine100Silver_desc { Покиньте Яму Лагеря Отступников с 100 серебра в кармане. }
 
 Achievement_UndertookJourneyToRoots_name { Единство с Первобытным Лесом }
 
@@ -154,7 +154,7 @@ Achievement_FoundAtlanterWeapon_name { Наследие Прошедших }
 
 Achievement_FoundAtlanterWeapon_desc { Найдите древнее оружие. }
 
-Achievement_CraftedEpicArmor_name { Ничто Вам Не Навредит! }
+Achievement_CraftedEpicArmor_name { Вам Ничто Не Навредит! }
 
 Achievement_CraftedEpicArmor_desc { Получите комплект доспехов Прошедших. }
 

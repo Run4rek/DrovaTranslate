@@ -24,7 +24,7 @@ category_guimenus { Интерфейс }
 
 category_shotcuts { Разное }
 
-Label_Volume_Master { Все }
+Label_Volume_Master { Всё }
 
 Label_Volume_Sound { Звуковые эффекты }
 
@@ -170,7 +170,7 @@ Toggle_CharacterFeedback { Отображение обратной связи п
 
 ShowDirectionFeedback_Enemies { Отображение указателей направления }
 
-ShowPoiseBar_Enemies { Отображение панели стойки противника }
+ShowPoiseBar_Enemies { Отображение панели стойкости противника }
 
 ShowMunition { Отображение боеприпасов }
 
@@ -206,7 +206,7 @@ Title_PlayerHUD { Элементы HUD, прикрепленные к персо
 
 Title_EnemyHUD { Элементы HUD, прикрепленные к неигровым персонажам }
 
-ShowNPCNames { Отображение имен персонажей }
+ShowNPCNames { Отображение имён персонажей }
 
 KeyPresent_Standard { По умолчанию }
 
@@ -238,7 +238,7 @@ Zoom_Far { Далеко }
 
 Toggle_PickUpsToQuickbar_Potions { Зелья }
 
-Description_AutoDrawWeapon { Персонаж автоматически достает свое оружие, когда уклоняется или использует заклинание. }
+Description_AutoDrawWeapon { Персонаж автоматически достаёт свое оружие, когда уклоняется или использует заклинание. }
 
 Title_WeatherEffects { Погодные эффекты }
 
@@ -248,7 +248,7 @@ Toggle_Quickcast { Быстрое применение }
 
 AutoDrawWeapon_CombatAbilitiesOnly { Только навыки атаки }
 
-Description_Quickcast { При нажатии одной из клавиш способности способность будет переключена и, если включено быстрое применение, будет использована немедленно. }
+Description_Quickcast { При нажатии одной из клавиш способности, способность будет переключена и, если включено быстрое применение, использована немедленно. }
 
 Description_LookDirection { Во время боя стрелка у ног персонажа указывает направление, в котором он смотрит. }
 

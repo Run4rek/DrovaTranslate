@@ -1,4 +1,4 @@
-ExpPoints { Очки опыта }
+ExpPoints { Очки Опыта }
 
 Name_Strength { Сила }
 
@@ -8,15 +8,15 @@ Name_Dex { Ловкость }
 
 Name_Armor { Броня }
 
-Name_MagicResist { Сопротивление магии }
+Name_MagicResist { Сопротивление Магии }
 
 Learned { Изучено }
 
-LearnPoint { Очко обучения }
+LearnPoint { Очко Обучения }
 
-LearnPoints { Очки обучения }
+LearnPoints { Очки Обучения }
 
-MaximumHealth { Максимальное здоровье }
+MaximumHealth { Максимальное Здоровье }
 
-Name_Orientationpunkt { Базовый фокус }
+Name_Orientationpunkt { Базовый Фокус }
 

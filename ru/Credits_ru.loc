@@ -1,32 +1,32 @@
 director { Геймдиректор }
 
-game_design_lead { Ведущий дизайнер игры }
+game_design_lead { Ведущий геймдизайнер }
 
-game_design { Дизайнер игры }
+game_design { Геймдизайнеры }
 
-additional_game_design { Помощник дизайнера игры }
+additional_game_design { Дополнительный геймдизайн }
 
-programming_lead { Ведущий программист }
+programming_lead { Ведущие программисты }
 
-programming { Программист }
+programming { Программисты }
 
 art_lead { Арт-дирекшн }
 
 art { Арт }
 
-community { Сообщество }
+community { Работа с сообществом }
 
 sound_lead { Звук и музыка }
 
-organisation { Помощь & Бэк-офис }
+organisation { Помощь и административный офис }
 
-praktikanten { Стажеры }
+praktikanten { Стажёры }
 
 freelancer { Внешние подрядчики }
 
-musik { Музыкальный дизайнер }
+musik { Музыка }
 
-sound { Звуковой дизайнер }
+sound { Звуковые эффекты }
 
 grafiken { Иллюстратор }
 
@@ -38,17 +38,17 @@ publisher { Издатель }
 
 spotlight { Deck13 Spotlight }
 
-spotlight_interns { Стажеры }
+spotlight_interns { Стажёры }
 
 spotlight_productionBaby { Производственные дети }
 
 spotlight_deck13 { Deck13 }
 
-spotlight_deck13_interns { Стажеры }
+spotlight_deck13_interns { Стажёры }
 
 spotlight_deck13_memory { В память о Felix Rischbieter }
 
-pr_hound { Специалист по PR }
+pr_hound { Специалисты по PR }
 
 bxdxo { BXDXO }
 
@@ -62,9 +62,9 @@ loca_english_translators { Перевод на английский }
 
 loca_english_proofreading { Исправления на английском }
 
-loca_french_localization { Перевод на французский }
+loca_french_localization { Французская локализация }
 
-loca_french_translators { Переводчики }
+loca_french_translators { Перевод на французский }
 
 special_thank_Grounding { Мы выражаем особую благодарность за основание студии следующим людям: }
 
@@ -76,7 +76,7 @@ voice { Актёры озвучки }
 
 thanks_family { Мы благодарим наши семьи, друзей и партнеров за постоянную поддержку. Без вас мы бы никогда не дошли так далеко. }
 
-thanks_pb { Спасибо, Piranha Bytes, за серию Готику. Отличная игра, которая оказала длительное влияние на всех нас. }
+thanks_pb { Спасибо, Piranha Bytes, за серию Готика. Эта отличная игра, которая оказала длительное влияние на всех нас. }
 
 chris_wish { Моя любимая Сара, спасибо за поддержку, пока я гнался за своей сумасшедшей мечтой. Было непросто, но мы справились!\nИ покойся с миром, бабушка. Я скучаю по тебе. }
 
