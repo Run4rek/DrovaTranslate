@@ -62,7 +62,7 @@ action_LootAll { Взять всё }
 
 action_Journal { Журнал }
 
-action_PerceptionMode { Режим исследования }
+action_PerceptionMode { Режим Исследования }
 
 action_QuickSave { Быстр. сохр. }
 

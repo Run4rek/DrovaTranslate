@@ -1,6 +1,6 @@
 Title_MainSpells { Способности }
 
-Title_ConsSpells { Свитки заклинаний }
+Title_ConsSpells { Свитки Заклинаний }
 
 header_physicalAbilities { Способности }
 
@@ -8,12 +8,12 @@ header_magicalAbilities { Заклинания }
 
 header_memory { Память }
 
-Orientationpoint_Label { Базовый фокус: }
+Orientationpoint_Label { Базовый Фокус: }
 
-Orientationpointtooltip_Header { Базовый фокус }
+Orientationpointtooltip_Header { Базовый Фокус }
 
-Orientationpointtooltip_Description { Со временем Фокус будет восстанавливаться до этой точки. }
+Orientationpointtooltip_Description { Со временем Фокус будет восстанавливаться до этой отметки. }
 
-MaxLeben { Макс. здоровье }
+MaxLeben { Макс. Здоровье }
 
-StaminaCosts { Стоимость выносливости }
+StaminaCosts { Стоимость Выносливости }

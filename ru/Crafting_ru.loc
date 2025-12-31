@@ -1,10 +1,10 @@
 Workbench { Верстак }
 
-Furnace { Печь }
+Furnace { Плавильня }
 
 Fireplace { Костёр }
 
-Personal { Личный }
+Personal { Личное }
 
 Recipes { Рецепты }
 
@@ -22,9 +22,9 @@ Foldout_Food { Еда }
 
 Foldout_Heal { Лечение }
 
-Foldout_Unsorted { Несортированный }
+Foldout_Unsorted { Несортированное }
 
-Title_CraftingStation { Верстак }
+Title_CraftingStation { Рабочее Место }
 
 Prefix_RequiredWorkbench { Требуется: }
 

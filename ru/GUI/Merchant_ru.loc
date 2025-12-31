@@ -1,6 +1,6 @@
 title_splitstack { Разделить товары }
 
-popup_balanceMoney { Уровнять монетами }
+popup_balanceMoney { Уравнять монетами }
 
 popup_giveForFree { Вы уверены, что не хотите ничего взамен? }
 
@@ -20,7 +20,7 @@ Spend { Дать }
 
 Exchange { Обмен }
 
-ExchangeOnly { Только обмен }
+ExchangeOnly { Только Обмен }
 
 popup_valueAboveTrader_NoCurrency { Ваши товары стоят дороже, чем готов заплатить торговец. <br><br>Желаете просто подарить ему разницу? }
 
